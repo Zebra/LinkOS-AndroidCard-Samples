@@ -4,7 +4,7 @@ This version should be associated with v2.14.5097 of the Android-Card library. T
 
 
 
-# Projects contained in this repository:
+## Projects contained in this repository:
 [ZSDK_DevDemos_Combined]( https://github.com/Zebra/LinkOS-AndroidCard-Samples/tree/ZSDK_DevDemos_Combined)
 
 
