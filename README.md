@@ -14,6 +14,11 @@ Find [API Documentation](http://techdocs.zebra.com/link-os) here.
 
 [Developer Community](https://developer.zebra.com/community/technologies/printers) and Forums.
 
+
+# Projects contained in this repository:
+[ZSDK_DevDemos_Combined]( https://github.com/Zebra/LinkOS-AndroidCard-Samples/tree/ZSDK_DevDemos_Combined)
+
+
 ---
 # LinkOS_SDK license
 ## END USER LICENSE AGREEMENT ##
