@@ -2,9 +2,11 @@
 ## ZSDK DevDemo
 This version should be associated with v2.14.5097 of the Android-Card library. This sample has demos for discovering printers, graphics, magnetic encoding, multi-job printing, standard printing, checking status and settings, template printing, and SmartCard encoding.
 
-Projects contained in this repository:
 
-[ZSDK DevDemos](https://github.com/Zebra/LinkOS-AndroidCard-Samples/tree/ZSDK_DevDemos_Combined) 
+
+# Projects contained in this repository:
+[ZSDK_DevDemos_Combined]( https://github.com/Zebra/LinkOS-AndroidCard-Samples/tree/ZSDK_DevDemos_Combined)
+
 
 
 # Notes
@@ -14,9 +16,6 @@ Find [API Documentation](http://techdocs.zebra.com/link-os) here.
 
 [Developer Community](https://developer.zebra.com/community/technologies/printers) and Forums.
 
-
-# Projects contained in this repository:
-[ZSDK_DevDemos_Combined]( https://github.com/Zebra/LinkOS-AndroidCard-Samples/tree/ZSDK_DevDemos_Combined)
 
 
 ---
