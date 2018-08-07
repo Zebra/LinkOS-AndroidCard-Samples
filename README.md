@@ -1,6 +1,10 @@
 # LinkOS-AndroidCard-Samples
 Java based sample code for developing card printing and encoding apps on Android. The demos in this repository are stored on separate branches. To navigate to a demo, please click branches.
 
+## Projects contained in this repository:
+[ZSDK_DevDemos_Combined]( https://github.com/Zebra/LinkOS-AndroidCard-Samples/tree/ZSDK_DevDemos_Combined)
+
+
 # Notes
 All card printer sample code is selectable from the branches on this repository.
 
